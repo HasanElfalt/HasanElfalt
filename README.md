@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hasanelfalt" alt="hasanelfalt" /></a> </p>
 
-- 💬 Ask me about **Java, Android**
+- 💬 Ask me about **Java, Android, JavaScript, ReactNative**
 
 - 📫 How to reach me **hassanelfalt60@gmail.com**
 
